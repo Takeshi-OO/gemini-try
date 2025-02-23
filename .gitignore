@@ -49,3 +49,11 @@ templates/
 # PowerPoint temporary files
 ~$*
 
+# Stable Diffusion
+stable-diffusion-webui/
+venv/
+models/
+outputs/
+*.ckpt
+*.safetensors
+

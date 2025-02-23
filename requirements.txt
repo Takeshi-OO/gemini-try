@@ -1,0 +1,8 @@
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+gradio>=3.41.2
+transformers>=4.36.0
+accelerate>=0.21.0
+safetensors>=0.4.2
+diffusers>=0.24.0 
